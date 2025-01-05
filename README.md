@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziyang-fang/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](fangz58@mcmaster.ca)
  
-Welcome to my Github page! I am Lina and I am currently Learning Backend and Frontend!  
+Welcome to my Github page! I am Ryan and I am currently Learning Backend and Frontend!  
  
  
 #### 🌱 Things I am currently working on 🌱 : 
@@ -14,11 +14,6 @@ Welcome to my Github page! I am Lina and I am currently Learning Backend and Fro
  
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
-- Nosql
-- Kafka
-- Full-stack Development
-- Spring Framework
-- Operational Efficiency
-- High Availability
-#### 🌻 I am studying 🌻
-- English
+- Programming & Frameworks: Java, Spring Boot, SSM framework, Spring Framework, React.js
+- Middleware & Databases: Redis, RabbitMQ, Kafka, MySQL, NoSQL
+- Architectures & Tools: Microservices, RPC, REST APIs, Full-Stack Development, Unit Testing, Git
