@@ -7,12 +7,10 @@
  
 Welcome to my Github page! I am Lina and I am currently Learning Backend and Frontend!  
  
--- <img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" /> --
- 
  
 #### 🌱 Things I am currently working on 🌱 : 
 - Taking courses about Full-stack Development  
-- [My website](https://fangziyang.github.io/personal-portfolio/) 🚀 *coming soon*
+- [My website](https://fangziyang.github.io/personal-portfolio/) 🚀 
  
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
